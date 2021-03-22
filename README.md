@@ -6,8 +6,7 @@
 - 📫 My email, because idk : contactorehrn@gmail.com
  
  
- 
- -Postdata: i'm from Peru so i talk spanish but well, English is the best one, no?
+-Postdata: i'm from Peru so i talk spanish but well, English is the best one, no?
 
 <!---
 Rehrn/Rehrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
